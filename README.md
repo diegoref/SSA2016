@@ -1,5 +1,5 @@
 # SSA2016
-Challenge on Semantic Sentiment Analysis within ESWC2016
+Challenge on Fine-Grained Sentiment Analysis within ESWC2016
 
 Check the <a href='https://github.com/diegoref/SSA2016/wiki'>wiki</a> page to see more details
 
