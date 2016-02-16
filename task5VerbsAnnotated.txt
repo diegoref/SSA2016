@@ -1,0 +1,30 @@
+abandon		Source:negative	
+abuse		Agent:positive		Theme:negative
+accomplish	Agent:positive
+achieve		Agent:positive
+admire		Experiencer:positive	Theme:positive
+advertise	Location:positive
+alleviate	Theme:positive
+annihilate	Patient:negative
+appreciate	Theme:positive
+arrest		Patient:negative
+assassinate	Patient:negative
+assault		Theme:negative
+attack		Theme:negative
+award		Theme:positive
+banish		Theme:negative
+blame		Theme:negative
+bless		Theme:positive
+bluff		Theme:negative		Agent:positive
+bombard		Theme:negative		Agent:positive
+boost		Theme:positive
+bother		Theme:negative
+break apart	Theme:negative
+calumniate	Theme:negative		Agent:positive
+castigate	Theme:negative		Agent:positive
+cheat		Theme:negative		Agent:positive
+cheer up	Theme:positive
+cherish		Theme:positive
+compliment	Theme:positive
+concede		Agent:negative
+condemn		Theme:negative
