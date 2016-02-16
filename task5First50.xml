@@ -1,3 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Sentences>
+	
 <sentence id="1">
 <text>I could not believe she would abandon our life-long friendship so abruptly.</text>
 	<Sentilonet>
@@ -356,3 +359,5 @@
         <opinion targetverb=“condemned” verbrole=“Theme” roleobject=“that person” polarity=“positive”/>
         </Sentilonet>
 </sentence>
+
+</Sentences>
