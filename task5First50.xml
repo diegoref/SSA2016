@@ -193,170 +193,170 @@
         </Sentilonet>
 </sentence>
 
-<sentence id="28”>
+<sentence id="28">
 <text>She is sad that they ended up blaming John.</text>
 	<Sentilonet>
-        <opinion targetverb=“blaming” verbrole="Theme" roleobject=“John” polarity=“positive”/>
+        <opinion targetverb="blaming" verbrole="Theme" roleobject="John" polarity="positive"/>
         </Sentilonet>
 </sentence>
 
-<sentence id="29”>
+<sentence id="29">
 <text>John is relieved by the fact that the judge blames his wife.</text>
 	<Sentilonet>
-        <opinion targetverb=“blames” verbrole="Theme" roleobject=“his wife” polarity=“negative”/>
+        <opinion targetverb="blames" verbrole="Theme" roleobject="his wife" polarity="negative"/>
         </Sentilonet>
 </sentence>
 
-<sentence id=“30”>
+<sentence id="30">
 <text>John is disappointed by the fact that the judge did not blame his wife.</text>
 	<Sentilonet>
-        <opinion targetverb=“did not blame” verbrole="Theme" roleobject=“his wife” polarity=“negative”/>
+        <opinion targetverb="did not blame" verbrole="Theme" roleobject="his wife" polarity="negative"/>
         </Sentilonet>
 </sentence>
 
-<sentence id=“31”>
+<sentence id="31">
 <text>The knight felt proud after the king blessed him.</text>
 	<Sentilonet>
-        <opinion targetverb=“blessed” verbrole="Theme" roleobject=“him” polarity=“positive”/>
+        <opinion targetverb="blessed" verbrole="Theme" roleobject="him" polarity="positive"/>
         </Sentilonet>
 </sentence>
 
-<sentence id=“32”>
+<sentence id="32">
 <text>The princess was disappointed to not be blessed by his father.</text>
 	<Sentilonet>
-        <opinion targetverb=“to not be blessed” verbrole="Theme" roleobject=“the princess” polarity=“negative”/>
+        <opinion targetverb="to not be blessed" verbrole="Theme" roleobject="the princess" polarity="negative"/>
         </Sentilonet>
 </sentence>
 
-<sentence id=“33”>
+<sentence id="33">
 <text>The player was disappointed that his opponent was trying to bluff him.</text>
 	<Sentilonet>
-        <opinion targetverb=“was trying to bluff him” verbrole="Theme" roleobject=“him” polarity=“positive”/>
+        <opinion targetverb="was trying to bluff him" verbrole="Theme" roleobject="him" polarity="positive"/>
         </Sentilonet>
 </sentence>
 
-<sentence id=“34”>
+<sentence id="34">
 <text>Those people felt horrible that militia have bombarded Iraq.</text>
 	<Sentilonet>
-        <opinion targetverb=“have bombarded” verbrole="Theme" roleobject=“Iraq” polarity=“positive”/>
-	 <opinion targetverb=“have bombarded” verbrole=“Agent” roleobject=“militia” polarity=“negative”/>
+        <opinion targetverb="have bombarded" verbrole="Theme" roleobject="Iraq" polarity="positive"/>
+	 <opinion targetverb="have bombarded" verbrole="Agent" roleobject="militia" polarity="negative"/>
         </Sentilonet>
 </sentence>
 
-<sentence id=“35”>
+<sentence id="35">
 <text>Super Mario feels happy when he gets boosted.</text>
 	<Sentilonet>
-        <opinion targetverb=“gets boosted” verbrole="Theme" roleobject=“he” polarity=“positive”/>
+        <opinion targetverb="gets boosted" verbrole="Theme" roleobject="he" polarity="positive"/>
         </Sentilonet>
 </sentence>
 
-<sentence id=“36”>
+<sentence id="36">
 <text>The player is mad that his opponent got boosted.</text>
 	<Sentilonet>
-        <opinion targetverb=“got boosted” verbrole="Theme" roleobject=“his opponent” polarity=“negative”/>
+        <opinion targetverb="got boosted" verbrole="Theme" roleobject="his opponent" polarity="negative"/>
         </Sentilonet>
 </sentence>
 
-<sentence id=“37”>
+<sentence id="37">
 <text>The kid enjoys bothering his sister.</text>
 	<Sentilonet>
-        <opinion targetverb=“bothering” verbrole="Theme" roleobject=“his sister” polarity=“negative”/>
+        <opinion targetverb="bothering" verbrole="Theme" roleobject="his sister" polarity="negative"/>
         </Sentilonet>
 </sentence>
 
-<sentence id=“38”>
+<sentence id="38">
 <text>Mark is disappointed that Mary broke apart their relationship.</text>
 	<Sentilonet>
-        <opinion targetverb=“broke apart” verbrole=“Theme” roleobject=“their relationship” polarity=“positive”/>
+        <opinion targetverb="broke apart" verbrole="Theme" roleobject="their relationship" polarity="positive"/>
         </Sentilonet>
 </sentence>
 
-<sentence id=“39”>
+<sentence id="39">
 <text>Mark feels relieved that John is breaking apart his motorbike.</text>
 	<Sentilonet>
-        <opinion targetverb=“is breaking apart” verbrole=“Theme” roleobject=“his motorbike” polarity=“negative”/>
+        <opinion targetverb="is breaking apart" verbrole="Theme" roleobject="his motorbike" polarity="negative"/>
         </Sentilonet>
 </sentence>
 
-<sentence id=“40”>
+<sentence id="40">
 <text>The King feels offended that he has been calumniating the Crown.</text>
 	<Sentilonet>
-        <opinion targetverb=“has been calumniating” verbrole=“Theme” roleobject=“the Crown” polarity=“positive”/>
-        <opinion targetverb=“has been calumniating” verbrole=“Agent” roleobject=“he” polarity=“negative”/>
+        <opinion targetverb="has been calumniating" verbrole="Theme" roleobject="the Crown" polarity="positive"/>
+        <opinion targetverb="has been calumniating" verbrole="Agent" roleobject="he" polarity="negative"/>
         </Sentilonet>
 </sentence>
 
-<sentence id=“41”>
+<sentence id="41">
 <text>Mary feels awful that her mom keeps castigating her dad.</text>
 	<Sentilonet>
-        <opinion targetverb=“keeps castigating” verbrole=“Theme” roleobject=“her dad” polarity=“positive”/>
-        <opinion targetverb=“keeps castigating” verbrole=“Agent” roleobject=“her mom” polarity=“negative”/>
+        <opinion targetverb="keeps castigating" verbrole="Theme" roleobject="her dad" polarity="positive"/>
+        <opinion targetverb="keeps castigating" verbrole="Agent" roleobject="her mom" polarity="negative"/>
         </Sentilonet>
 </sentence>
 
-<sentence id=“42”>
+<sentence id="42">
 <text>John and Tom feel peaceful that the teacher castigated Frank for his bad behaviour.</text>
 	<Sentilonet>
-        <opinion targetverb=“castigated” verbrole=“Theme” roleobject=“Frank” polarity=“negative”/>
-        <opinion targetverb=“castigated” verbrole=“Agent” roleobject=“the teacher” polarity=“positive”/>
+        <opinion targetverb="castigated" verbrole="Theme" roleobject="Frank" polarity="negative"/>
+        <opinion targetverb="castigated" verbrole="Agent" roleobject="the teacher" polarity="positive"/>
         </Sentilonet>
 </sentence>
 
-<sentence id=“43”>
+<sentence id="43">
 <text>Nobody approves the fact that Mark Rossi has been cheating on his girlfriend for all these years.</text>
 	<Sentilonet>
-        <opinion targetverb=“has been cheating on” verbrole=“Theme” roleobject=“his girlfriend” polarity=“positive”/>
-        <opinion targetverb=“has been cheating on” verbrole=“Agent” roleobject=“Mark Rossi” polarity=“negative”/>
+        <opinion targetverb="has been cheating on" verbrole="Theme" roleobject="his girlfriend" polarity="positive"/>
+        <opinion targetverb="has been cheating on" verbrole="Agent" roleobject="Mark Rossi" polarity="negative"/>
         </Sentilonet>
 </sentence>
 
-<sentence id=“44”>
+<sentence id="44">
 <text>Sara’s friend does not feel sorry that Tom cheated on Johanna last night.</text>
 	<Sentilonet>
-        <opinion targetverb=“cheated on” verbrole=“Theme” roleobject=“Johanna” polarity=“negative”/>
- 	 <opinion targetverb=“cheated on” verbrole=“Agent” roleobject=“Johanna” polarity=“positive”/>
+        <opinion targetverb="cheated on" verbrole="Theme" roleobject="Johanna" polarity="negative"/>
+ 	 <opinion targetverb="cheated on" verbrole="Agent" roleobject="Johanna" polarity="positive"/>
         </Sentilonet>
 </sentence>
 
-<sentence id=“45”>
+<sentence id="45">
 <text>That soccer team was disappointed that their fans cheered the opponent team up.</text>
 	<Sentilonet>
-        <opinion targetverb=“cheered up” verbrole=“Theme” roleobject=“the opponent team” polarity=“negative”/>
+        <opinion targetverb="cheered up" verbrole="Theme" roleobject="the opponent team" polarity="negative"/>
         </Sentilonet>
 </sentence>
 
-<sentence id=“46”>
+<sentence id="46">
 <text>I am happy that you want to cherish me.</text>
 	<Sentilonet>
-        <opinion targetverb=“want to cherish” verbrole=“Theme” roleobject=“me” polarity=“positive”/>
+        <opinion targetverb="want to cherish" verbrole="Theme" roleobject="me" polarity="positive"/>
         </Sentilonet>
 </sentence>
 
-<sentence id=“47”>
+<sentence id="47">
 <text>The coach is happy that his team wants to compliment the opponents.</text>
 	<Sentilonet>
-        <opinion targetverb=“wants to compliment” verbrole=“Theme” roleobject=“the opponents” polarity=“positive”/>
+        <opinion targetverb="wants to compliment" verbrole="Theme" roleobject="the opponents" polarity="positive"/>
         </Sentilonet>
 </sentence>
 
-<sentence id=“48”>
+<sentence id="48">
 <text>The coach is happy that his team did not conced more goals than any other team.</text>
 	<Sentilonet>
-        <opinion targetverb=“did not concede” verbrole=“Agent” roleobject=“his team” polarity=“positive”/>
+        <opinion targetverb="did not concede" verbrole="Agent" roleobject="his team" polarity="positive"/>
         </Sentilonet>
 </sentence>
 
-<sentence id=“49”>
+<sentence id="49">
 <text>We are all happy that the judge condemned that man.</text>
 	<Sentilonet>
-        <opinion targetverb=“condemned” verbrole=“Theme” roleobject=“that man” polarity=“negative”/>
+        <opinion targetverb="condemned" verbrole="Theme" roleobject="that man" polarity="negative"/>
         </Sentilonet>
 </sentence>
 
-<sentence id=“50”>
+<sentence id="50">
 <text>We do not feel right that the judges condemned that person.</text>
 	<Sentilonet>
-        <opinion targetverb=“condemned” verbrole=“Theme” roleobject=“that person” polarity=“positive”/>
+        <opinion targetverb="condemned" verbrole="Theme" roleobject="that person" polarity="positive"/>
         </Sentilonet>
 </sentence>
 
