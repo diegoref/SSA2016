@@ -340,7 +340,7 @@
 </sentence>
 
 <sentence id="48">
-<text>The coach is happy that his team did not conced more goals than any other team.</text>
+<text>The coach is happy that his team did not concede more goals than any other team.</text>
 	<Sentilonet>
         <opinion targetverb="did not concede" verbrole="Agent" roleobject="his team" polarity="positive"/>
         </Sentilonet>
