@@ -1,0 +1,358 @@
+<sentence id="1">
+<text>I could not believe she would abandon our life-long friendship so abruptly.</text>
+	<Sentilonet>
+	<opinion targetverb="would abandon" verbrole="Source" roleobject="life-long friendship" polarity="positive"/>
+	</Sentilonet>
+</sentence>
+
+<sentence id="2">
+<text>The smart thing to do would be to abandon Brutus for the safety of the barn.</text>
+	<Sentilonet>
+	<opinion targetverb="to abandon" verbrole="Source" roleobject="Brutus" polarity="negative"/>
+	</Sentilonet>
+</sentence>
+
+<sentence id="3">
+<text>Fine, but I'm not going to let him verbally abuse you.</text>
+	<Sentilonet>
+        <opinion targetverb="abuse" verbrole="Agent" roleobject="him" polarity="negative"/>
+        <opinion targetverb="abuse" verbrole="Theme" roleobject="you" polarity="positive"/>
+        </Sentilonet>
+</sentence>
+
+<sentence id="4">
+<text>I hate the fact that Barabbas abused indulgence.</text>
+	<Sentilonet>
+        <opinion targetverb="abused" verbrole="Agent" roleobject="Barabbas" polarity="negative"/>
+        <opinion targetverb="abused" verbrole="Theme" roleobject="indulgence" polarity="positive"/>
+        </Sentilonet>
+</sentence>
+
+<sentence id="5">
+<text>It seemed very doubtful whether he would accomplish his desire.</text>
+	<Sentilonet>
+        <opinion targetverb="accomplish" verbrole="Agent" roleobject="he" polarity="negative"/>
+        </Sentilonet>
+</sentence>
+
+
+<sentence id="6">
+<text>I'm not a dog, and I want to accomplish something today, she muttered.</text>
+	<Sentilonet>
+        <opinion targetverb="accomplish" verbrole="Agent" roleobject="she" polarity="positive"/>
+        </Sentilonet>
+</sentence>
+
+<sentence id="7">
+<text>His last years were darkened by constant ill-health; and indeed it is marvellous that he was able to achieve so much.</text>
+	<Sentilonet>
+        <opinion targetverb="achieve" verbrole="Agent" roleobject="he" polarity="positive"/>
+        </Sentilonet>
+</sentence>
+
+<sentence id="8">
+<text>Asa, it is evident, was too weak to achieve the remarkable victory ascribed to him in 2 Chron.</text>
+	<Sentilonet>
+        <opinion targetverb="achieve" verbrole="Agent" roleobject="Asa" polarity="negative"/>
+        </Sentilonet>
+</sentence>
+
+<sentence id="9">
+<text>He greatly admired, or professed to admire, the genius of the early Roman poets, while he shows indifference to the poetical genius of his younger contemporaries.</text>
+	<Sentilonet>
+        <opinion targetverb="admired" verbrole="Experiencer" roleobject="the genius" polarity="positive"/>
+        </Sentilonet>
+</sentence>
+
+<sentence id="10">
+<text>Deidre stopped to admire bouquets being sold on a street corner.</text>
+	<Sentilonet>
+        <opinion targetverb="admire" verbrole="Theme" roleobject="bouquets" polarity="positive"/>
+        </Sentilonet>
+</sentence>
+
+<sentence id="11">
+<text>Linda is really happy to advertise her prize for the best singer.</text>
+	<Sentilonet>
+        <opinion targetverb="advertise" verbrole="Location" roleobject="prize" polarity="positive"/>
+        </Sentilonet>
+</sentence>
+
+<sentence id="12">
+<text>He was cranky as his sunglasses did not alleviate the headache sunlight gave him.</text>
+	<Sentilonet>
+        <opinion targetverb="alleviate" verbrole="Theme" roleobject="headache" polarity="negative"/>
+        </Sentilonet>
+</sentence>
+
+<sentence id="13">
+<text>I am worried that we might annihilate the human race.</text>
+	<Sentilonet>
+        <opinion targetverb="annihilate" verbrole="Patient" roleobject="the human race" polarity="positive"/>
+        </Sentilonet>
+</sentence>
+
+<sentence id="14">
+<text>Everyone is happy that Internet annihilated analfabetism and ignorance.</text>
+	<Sentilonet>
+        <opinion targetverb="annihilated" verbrole="Patient" roleobject="analfabetism and ignorance" polarity="negative"/>
+        </Sentilonet>
+</sentence>
+
+<sentence id="15">
+<text>I greatly appreciate the help you can give.</text>
+	<Sentilonet>
+        <opinion targetverb="appreciate" verbrole="Theme" roleobject="help" polarity="positive"/>
+        </Sentilonet>
+</sentence>
+
+<sentence id="16">
+<text>Population of that small town feels relieved that criminals have been arrested.</text>
+	<Sentilonet>
+        <opinion targetverb="have been arrested" verbrole="Patient" roleobject="criminals" polarity="negative"/>
+        </Sentilonet>
+</sentence>
+
+<sentence id="17">
+<text>They are astonished that Antonio has been arrested.</text>
+	<Sentilonet>
+        <opinion targetverb="has been arrested" verbrole="Patient" roleobject="Antonio" polarity="positive"/>
+        </Sentilonet>
+</sentence>
+
+<sentence id="18">
+<text>Americans felt really lost when President Lincoln was assassinated.</text>
+	<Sentilonet>
+        <opinion targetverb="was assassinated" verbrole="Patient" roleobject="President Lincoln" polarity="positive"/>
+        </Sentilonet>
+</sentence>
+
+<sentence id="19">
+<text>Italy remained knocked when the judge Falcone was assassinated by Sicilian mafia.</text>
+	<Sentilonet>
+        <opinion targetverb="was assassinated" verbrole="Patient" roleobject="judge Falcone" polarity="positive"/>
+        </Sentilonet>
+</sentence>
+
+<sentence id="20">
+<text>The thief was mad that the cargo had already been assaulted.</text>
+	<Sentilonet>
+        <opinion targetverb="had already been assaulted" verbrole="Theme" roleobject="cargo" polarity="positive"/>
+        </Sentilonet>
+</sentence>
+
+<sentence id="21">
+<text>The policeman felt satisfied that his trained dog assaulted the thief.</text>
+	<Sentilonet>
+        <opinion targetverb="assaulted" verbrole="Theme" roleobject="thief" polarity="negative"/>
+        </Sentilonet>
+</sentence>
+
+<sentence id="22">
+<text>The village people were happy the Indians did not attack them.</text>
+	<Sentilonet>
+        <opinion targetverb="did not attack" verbrole="Theme" roleobject="them" polarity="positive"/>
+        </Sentilonet>
+</sentence>
+
+<sentence id="23">
+<text>It was one thing for the demons and Immortals to fight, but to attack the innocent humans was madness.</text>
+	<Sentilonet>
+        <opinion targetverb="to attack" verbrole="Theme" roleobject="the innocent humans" polarity="positive"/>
+        </Sentilonet>
+</sentence>
+
+<sentence id="24">
+<text>John was happy that they awarded his brother for the best performance.</text>
+	<Sentilonet>
+        <opinion targetverb="awarded" verbrole="Theme" roleobject="his brother" polarity="positive"/>
+        </Sentilonet>
+</sentence>
+
+<sentence id="25">
+<text>John felt horrible that Clara was awarded the prize during the final cerimony.</text>
+	<Sentilonet>
+        <opinion targetverb="was awarded" verbrole="Theme" roleobject="Clara" polarity="negative"/>
+        </Sentilonet>
+</sentence>
+
+<sentence id="26">
+<text>Pierre was really upset that they banished from France all members of the old noblesse.</text>
+	<Sentilonet>
+        <opinion targetverb="banished" verbrole="Theme" roleobject="all members of the old noblesse" polarity="positive"/>
+        </Sentilonet>
+</sentence>
+
+<sentence id="27">
+<text>The government was happy that those people were banished from the country.</text>
+	<Sentilonet>
+        <opinion targetverb="were banished" verbrole="Theme" roleobject="those people" polarity="negative"/>
+        </Sentilonet>
+</sentence>
+
+<sentence id="28”>
+<text>She is sad that they ended up blaming John.</text>
+	<Sentilonet>
+        <opinion targetverb=“blaming” verbrole="Theme" roleobject=“John” polarity=“positive”/>
+        </Sentilonet>
+</sentence>
+
+<sentence id="29”>
+<text>John is relieved by the fact that the judge blames his wife.</text>
+	<Sentilonet>
+        <opinion targetverb=“blames” verbrole="Theme" roleobject=“his wife” polarity=“negative”/>
+        </Sentilonet>
+</sentence>
+
+<sentence id=“30”>
+<text>John is disappointed by the fact that the judge did not blame his wife.</text>
+	<Sentilonet>
+        <opinion targetverb=“did not blame” verbrole="Theme" roleobject=“his wife” polarity=“negative”/>
+        </Sentilonet>
+</sentence>
+
+<sentence id=“31”>
+<text>The knight felt proud after the king blessed him.</text>
+	<Sentilonet>
+        <opinion targetverb=“blessed” verbrole="Theme" roleobject=“him” polarity=“positive”/>
+        </Sentilonet>
+</sentence>
+
+<sentence id=“32”>
+<text>The princess was disappointed to not be blessed by his father.</text>
+	<Sentilonet>
+        <opinion targetverb=“to not be blessed” verbrole="Theme" roleobject=“the princess” polarity=“negative”/>
+        </Sentilonet>
+</sentence>
+
+<sentence id=“33”>
+<text>The player was disappointed that his opponent was trying to bluff him.</text>
+	<Sentilonet>
+        <opinion targetverb=“was trying to bluff him” verbrole="Theme" roleobject=“him” polarity=“positive”/>
+        </Sentilonet>
+</sentence>
+
+<sentence id=“34”>
+<text>Those people felt horrible that militia have bombarded Iraq.</text>
+	<Sentilonet>
+        <opinion targetverb=“have bombarded” verbrole="Theme" roleobject=“Iraq” polarity=“positive”/>
+	 <opinion targetverb=“have bombarded” verbrole=“Agent” roleobject=“militia” polarity=“negative”/>
+        </Sentilonet>
+</sentence>
+
+<sentence id=“35”>
+<text>Super Mario feels happy when he gets boosted.</text>
+	<Sentilonet>
+        <opinion targetverb=“gets boosted” verbrole="Theme" roleobject=“he” polarity=“positive”/>
+        </Sentilonet>
+</sentence>
+
+<sentence id=“36”>
+<text>The player is mad that his opponent got boosted.</text>
+	<Sentilonet>
+        <opinion targetverb=“got boosted” verbrole="Theme" roleobject=“his opponent” polarity=“negative”/>
+        </Sentilonet>
+</sentence>
+
+<sentence id=“37”>
+<text>The kid enjoys bothering his sister.</text>
+	<Sentilonet>
+        <opinion targetverb=“bothering” verbrole="Theme" roleobject=“his sister” polarity=“negative”/>
+        </Sentilonet>
+</sentence>
+
+<sentence id=“38”>
+<text>Mark is disappointed that Mary broke apart their relationship.</text>
+	<Sentilonet>
+        <opinion targetverb=“broke apart” verbrole=“Theme” roleobject=“their relationship” polarity=“positive”/>
+        </Sentilonet>
+</sentence>
+
+<sentence id=“39”>
+<text>Mark feels relieved that John is breaking apart his motorbike.</text>
+	<Sentilonet>
+        <opinion targetverb=“is breaking apart” verbrole=“Theme” roleobject=“his motorbike” polarity=“negative”/>
+        </Sentilonet>
+</sentence>
+
+<sentence id=“40”>
+<text>The King feels offended that he has been calumniating the Crown.</text>
+	<Sentilonet>
+        <opinion targetverb=“has been calumniating” verbrole=“Theme” roleobject=“the Crown” polarity=“positive”/>
+        <opinion targetverb=“has been calumniating” verbrole=“Agent” roleobject=“he” polarity=“negative”/>
+        </Sentilonet>
+</sentence>
+
+<sentence id=“41”>
+<text>Mary feels awful that her mom keeps castigating her dad.</text>
+	<Sentilonet>
+        <opinion targetverb=“keeps castigating” verbrole=“Theme” roleobject=“her dad” polarity=“positive”/>
+        <opinion targetverb=“keeps castigating” verbrole=“Agent” roleobject=“her mom” polarity=“negative”/>
+        </Sentilonet>
+</sentence>
+
+<sentence id=“42”>
+<text>John and Tom feel peaceful that the teacher castigated Frank for his bad behaviour.</text>
+	<Sentilonet>
+        <opinion targetverb=“castigated” verbrole=“Theme” roleobject=“Frank” polarity=“negative”/>
+        <opinion targetverb=“castigated” verbrole=“Agent” roleobject=“the teacher” polarity=“positive”/>
+        </Sentilonet>
+</sentence>
+
+<sentence id=“43”>
+<text>Nobody approves the fact that Mark Rossi has been cheating on his girlfriend for all these years.</text>
+	<Sentilonet>
+        <opinion targetverb=“has been cheating on” verbrole=“Theme” roleobject=“his girlfriend” polarity=“positive”/>
+        <opinion targetverb=“has been cheating on” verbrole=“Agent” roleobject=“Mark Rossi” polarity=“negative”/>
+        </Sentilonet>
+</sentence>
+
+<sentence id=“44”>
+<text>Sara’s friend does not feel sorry that Tom cheated on Johanna last night.</text>
+	<Sentilonet>
+        <opinion targetverb=“cheated on” verbrole=“Theme” roleobject=“Johanna” polarity=“negative”/>
+ 	 <opinion targetverb=“cheated on” verbrole=“Agent” roleobject=“Johanna” polarity=“positive”/>
+        </Sentilonet>
+</sentence>
+
+<sentence id=“45”>
+<text>That soccer team was disappointed that their fans cheered the opponent team up.</text>
+	<Sentilonet>
+        <opinion targetverb=“cheered up” verbrole=“Theme” roleobject=“the opponent team” polarity=“negative”/>
+        </Sentilonet>
+</sentence>
+
+<sentence id=“46”>
+<text>I am happy that you want to cherish me.</text>
+	<Sentilonet>
+        <opinion targetverb=“want to cherish” verbrole=“Theme” roleobject=“me” polarity=“positive”/>
+        </Sentilonet>
+</sentence>
+
+<sentence id=“47”>
+<text>The coach is happy that his team wants to compliment the opponents.</text>
+	<Sentilonet>
+        <opinion targetverb=“wants to compliment” verbrole=“Theme” roleobject=“the opponents” polarity=“positive”/>
+        </Sentilonet>
+</sentence>
+
+<sentence id=“48”>
+<text>The coach is happy that his team did not conced more goals than any other team.</text>
+	<Sentilonet>
+        <opinion targetverb=“did not concede” verbrole=“Agent” roleobject=“his team” polarity=“positive”/>
+        </Sentilonet>
+</sentence>
+
+<sentence id=“49”>
+<text>We are all happy that the judge condemned that man.</text>
+	<Sentilonet>
+        <opinion targetverb=“condemned” verbrole=“Theme” roleobject=“that man” polarity=“negative”/>
+        </Sentilonet>
+</sentence>
+
+<sentence id=“50”>
+<text>We do not feel right that the judges condemned that person.</text>
+	<Sentilonet>
+        <opinion targetverb=“condemned” verbrole=“Theme” roleobject=“that person” polarity=“positive”/>
+        </Sentilonet>
+</sentence>
