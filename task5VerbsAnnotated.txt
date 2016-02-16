@@ -1,4 +1,9 @@
-abandon		Source:negative	
+# a positive annotation on a given role means that a positive opinion towards that role is positively propagated, a negative opinion is negatively propagated.
+# a negative annotation on a given role means that a positive opinion towards that role is negatively propagated, a negative opinion is positively propagated.
+# e.g. I am not happy that John abandoned Mary
+# the negative opinion "not happy" is positively reflected on John (Source role) and negatively reflected on Mary (Theme), therefore we can infer that I have a negative opinion for John and a positive opinion for Mary.
+
+abandon		Source:positive	Theme:negative
 abuse		Agent:positive		Theme:negative
 accomplish	Agent:positive
 achieve		Agent:positive
