@@ -13,6 +13,7 @@ Challenge on Fine-Grained Sentiment Analysis within ESWC2016
 2) Marco Federici and Mauro Dragoni - A Knowledge-based Approach For Aspect-Based Opinion Mining - P: 0.34820 - R: 0.35745 - F: 0.35276 - A: 0.84925<br>
 3) Andi Rexha, Mark Kröll, Mauro Dragoni and Roman Kern - Exploiting Propositions for Opinion Mining - N/A
 
+<b>May 2016 - Test set released</b> They can be downloaded from <a href='http://www.maurodragoni.com/research/opinionmining/datasets/challenge2016/eswc2016_ssa_challenge_testset.zip'>this link</a>
 
 <b>8 February 2016 - Training Set for Task #1 released.</b> Please download it from <a href='https://drive.google.com/file/d/0B0BvGSZqvqJPbUU5NDFjbkV6a0U/view?usp=sharing'>this link</a> or check the <a href='https://groups.google.com/forum/#!topic/semantic-sentiment-analysis/caW6WLtHQig'>sentiment analysis initiative</a> for more details
 
