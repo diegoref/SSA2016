@@ -2,13 +2,13 @@
 Challenge on Fine-Grained Sentiment Analysis within ESWC2016
 
 <b>14 June 2016 - Publication of results</b><br>
-Task #1<br>
+<b>Task #1</b><br>
 1) <i>Efstratios Sygkounas, Xianglei Li, Giuseppe Rizzo and Raphaël Troncy</i>. <b>The SentiME System at the SSA Challenge Task 1</b> - Prec: 0.85686 - Rec: 0.90541 - F-meas: 0.88046<br>
 2) <i>Emanuele Di Rosa and Alberto Durante</i>. <b>App2Check extension for Sentiment Analysis of Amazon Products Reviews</b> - Prec: 0.82777 - Rec: 0.90789 - F-meas: 0.87142<br>
 3) <i>Giulio Petrucci and Mauro Dragoni</i>. <b>An Information Retrieval-based System For Multi-Domain Sentiment Analysis</b> - Prec: 0.81837 - Rec: 0.89198 - F-meas: 0.85359<br>
 4) <i>Andi Rexha, Mark Kröll, Mauro Dragoni and Roman Kern</i>. <b>Exploiting Propositions for Opinion Mining</b> - Prec: 0.50494 - Rec: 0.81665 - F-meas: 0.62403<br>
 
-Task #2<br>
+<b>Task #2</b><br>
 1) Soufian Jebbara and Philipp Cimiano - Aspect-Based Sentiment Analysis Using a Two-Step Neural Network Architecture - P: 0.41471 - R: 0.45196 - F: 0.43253 - A: 0.87356<br>
 2) Marco Federici and Mauro Dragoni - A Knowledge-based Approach For Aspect-Based Opinion Mining - P: 0.34820 - R: 0.35745 - F: 0.35276 - A: 0.84925<br>
 3) Andi Rexha, Mark Kröll, Mauro Dragoni and Roman Kern - Exploiting Propositions for Opinion Mining - N/A
