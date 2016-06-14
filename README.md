@@ -1,16 +1,16 @@
 # SSA2016
 Challenge on Fine-Grained Sentiment Analysis within ESWC2016
 
-<b>14 June 2016 - Publication of results</b>
-Task #1
-1) Efstratios Sygkounas, Xianglei Li, Giuseppe Rizzo and Raphaël TroncyThe SentiME System at the SSA Challenge Task 1 - P: 0.85686 - R: 0.90541 - F: 0.88046
-2) Emanuele Di Rosa and Alberto Durante - App2Check extension for Sentiment Analysis of Amazon Products Reviews - P: 0.82777 - R: 0.90789 - F: 0.87142
-3) Giulio Petrucci and Mauro Dragoni- An Information Retrieval-based System For Multi-Domain Sentiment Analysis - P: 0.81837 - R: 0.89198 - F: 0.85359
-4) Andi Rexha, Mark Kröll, Mauro Dragoni and Roman Kern - Exploiting Propositions for Opinion Mining - P: 0.50494 - R: 0.81665 - F: 0.62403
+<b>14 June 2016 - Publication of results</b><br>
+Task #1<br>
+1) Efstratios Sygkounas, Xianglei Li, Giuseppe Rizzo and Raphaël TroncyThe SentiME System at the SSA Challenge Task 1 - P: 0.85686 - R: 0.90541 - F: 0.88046<br>
+2) Emanuele Di Rosa and Alberto Durante - App2Check extension for Sentiment Analysis of Amazon Products Reviews - P: 0.82777 - R: 0.90789 - F: 0.87142<br>
+3) Giulio Petrucci and Mauro Dragoni- An Information Retrieval-based System For Multi-Domain Sentiment Analysis - P: 0.81837 - R: 0.89198 - F: 0.85359<br>
+4) Andi Rexha, Mark Kröll, Mauro Dragoni and Roman Kern - Exploiting Propositions for Opinion Mining - P: 0.50494 - R: 0.81665 - F: 0.62403<br>
 
-Task #2
-1) Soufian Jebbara and Philipp Cimiano - Aspect-Based Sentiment Analysis Using a Two-Step Neural Network Architecture - P: 0.41471 - R: 0.45196 - F: 0.43253 - A: 0.87356
-2) Marco Federici and Mauro Dragoni - A Knowledge-based Approach For Aspect-Based Opinion Mining - P: 0.34820 - R: 0.35745 - F: 0.35276 - A: 0.84925
+Task #2<br>
+1) Soufian Jebbara and Philipp Cimiano - Aspect-Based Sentiment Analysis Using a Two-Step Neural Network Architecture - P: 0.41471 - R: 0.45196 - F: 0.43253 - A: 0.87356<br>
+2) Marco Federici and Mauro Dragoni - A Knowledge-based Approach For Aspect-Based Opinion Mining - P: 0.34820 - R: 0.35745 - F: 0.35276 - A: 0.84925<br>
 3) Andi Rexha, Mark Kröll, Mauro Dragoni and Roman Kern - Exploiting Propositions for Opinion Mining - N/A
 
 
