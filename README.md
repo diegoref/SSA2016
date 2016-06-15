@@ -14,7 +14,7 @@ Challenge on Fine-Grained Sentiment Analysis within ESWC2016
 3) Andi Rexha, Mark Kröll, Mauro Dragoni and Roman Kern - Exploiting Propositions for Opinion Mining - N/A
 
 <b>Most Innovative Appoach</b><br>
-1) The system "Aspect-Based Sentiment Analysis Using a Two-Step Neural Network Architecture", contribution of Soufian Jebbara and Philipp Cimiano, combines for the first time the deep learning paradigm and semantic resources (SenticNet and WordNet) for extracting aspects from sentences and for inferring the polarity associated with each aspect. The polarity has been inferred by aggregating the values of opinion words associated with each aspect.
+1) The system "Aspect-Based Sentiment Analysis Using a Two-Step Neural Network Architecture", contribution of Soufian Jebbara and Philipp Cimiano, is the winner of the most innovative approach task. The system combines, for the first time, the deep learning paradigm and semantic resources (SenticNet and WordNet) for extracting aspects from sentences and for inferring the polarity associated with each aspect. The polarity has been inferred by aggregating the values of opinion words associated with each aspect.
 
 <b>May 2016 - Test set released.</b> They can be downloaded from <a href='http://www.maurodragoni.com/research/opinionmining/datasets/challenge2016/eswc2016_ssa_challenge_testset.zip'>this link</a>
 
